@@ -20,11 +20,11 @@
   "dependencies": {
     "abs-svg-path": "^0.1.1",
     "adaptive-bezier-curve": "^1.0.3",
-    "canvas": "^1.5.0",
+    "canvas": "^2.6.1",
     "cli-progress": "^1.2.0",
     "extract-svg-path": "^2.1.0",
     "jsonfile": "^2.4.0",
-    "kool-shell": "^1.5.0",
+    "kool-shell": "^2.1.0",
     "load-svg": "^1.0.0",
     "normalize-svg-path": "github:arnaudjuracek/normalize-svg-path",
     "opentype.js": "^0.6.5",
